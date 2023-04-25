@@ -13,3 +13,7 @@ I'm a Data Steward at TU Delft, and in my spare time I'm a PhD student in Archae
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbartholdy&show_icons=true&count_private=true&theme=radical&hide=stars)
