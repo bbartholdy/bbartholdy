@@ -16,7 +16,7 @@ I'm a Data Steward at TU Delft, and in my spare time I'm a PhD student in Archae
 - ⚡ Fun fact: ...
 -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbartholdy&repo=endgame&theme=radical)](https://github.com/bbartholdy/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bbartholdy&repo=endgame&theme=radical)](https://github.com/bbartholdy/endgame)
 
 ## Skills
 
