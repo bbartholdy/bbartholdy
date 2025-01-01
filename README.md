@@ -37,4 +37,4 @@ I'm a Data Steward at TU Delft, and in my spare time I do archaeology research (
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbartholdy&layout=compact&theme=radical&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbartholdy&show_icons=true&count_private=true&theme=radical&hide=stars) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbartholdy&show_icons=true&count_private=false&theme=radical&hide=stars) 
