@@ -2,9 +2,9 @@
 
 ![Mastodon social badge](https://img.shields.io/mastodon/follow/108202983184178185?color=%236364ff&domain=https%3A%2F%2Ffediscience.org&label=Mastodon%20%40bjorn&style=for-the-badge)
 
-I'm a Data Steward at TU Delft, and in my spare time I do archaeology research (ish). I enjoy using R (like a nerd) for analyses, manuscripts, and useless packages that no one will use 🤷
+I'm a Data Steward at TU Delft, and in my spare time I do research in archaeology(ish). I enjoy using R (like a nerd) for analyses, manuscripts, and useless packages that no one will use 🤷
 
-- 🔭 I’m currently working on developing an oral biofilm model to grow dental calculus
+- 🔭 I’m currently working on [RchaeoStats](https://github.com/rchaeology/RchaeoStats); teaching materials on R and statistics primarily aimed at archaeologists
 - 🌱 I’m currently learning bayesian statistics
 - 💬 You can ask me about my dissertation, or see the progress here 👇 or [here](https://myphd.netlify.app)
 <!--
