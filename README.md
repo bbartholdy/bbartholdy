@@ -5,7 +5,7 @@
 I'm a Data Steward at TU Delft, and in my spare time I do research in archaeology(ish). I enjoy using R (like a nerd) for analyses, manuscripts, and useless packages that no one will use 🤷
 
 - 🔭 I’m currently working on [RchaeoStats](https://github.com/rchaeology/RchaeoStats); teaching materials on R and statistics primarily aimed at archaeologists
-- 🌱 I’m currently learning bayesian statistics
+- 🌱 I’m currently learning to finish projects rather than start new ones
 - 💬 You can ask me about my dissertation, or see the progress here 👇 or [here](https://myphd.netlify.app)
 <!--
 - 👯 I’m looking to collaborate on ...
